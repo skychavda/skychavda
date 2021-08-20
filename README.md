@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=skychavda)
 
-## I am a Front-end cum Feeling Developer 😁
+## Front-end cum Feeling Developer 😁
 >Here is a glimps feeling tech list
 
 ✅ ReactJS, React Native
