@@ -4,7 +4,7 @@
 ## Front-end cum Feeling Developer 😁
 >Here is a glimps feeling tech list
 
-✅ ReactJS, React Native
+✅ ReactJS, React Native, NEXT.js
 
 ✅ NodeJS
 
