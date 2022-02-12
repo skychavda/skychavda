@@ -2,27 +2,33 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=skychavda)
 
 ## Front-end cum Feeling Developer 😁
->Here is a glimps feeling tech list
+> #### Here is a glimps feeling tech list
 
-✅ ReactJS, React Native, NEXT.js
+:heavy_check_mark: ReactJS, React Native, NEXT.js
 
-✅ NodeJS
+:heavy_check_mark: NodeJS
 
-✅ HTML, CSS, Bootstrap
+:heavy_check_mark: HTML, CSS, Bootstrap
 
-✅ SCSS
+:heavy_check_mark: SCSS
 
-✅ MaterialUI, SementicUI
+:heavy_check_mark: MaterialUI, SementicUI
 
-✅ NextJS
+:heavy_check_mark: NextJS
 
-✅ GraphQL, RestAPI, Socket.IO
+:heavy_check_mark: GraphQL, RestAPI, Socket.IO
 
->Here is a glimps of backend tech list 
+:heavy_check_mark: Figma to React, Figma to Nextjs
 
-✅ PHP
+:heavy_check_mark: Redux, Recoil
 
-✅ NodeJS
+> #### Here is a glimps of backend tech list 
+
+:heavy_check_mark: PHP
+
+:heavy_check_mark: NodeJS
+
+:heavy_check_mark:
 
 ## :octocat: Github Stats
 
