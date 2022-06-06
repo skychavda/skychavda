@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 
+### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px" height="20px"> 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=skychavda)
 
 ## Front-end cum Feeling Developer 😁
